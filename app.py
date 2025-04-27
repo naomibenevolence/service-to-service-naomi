@@ -26,17 +26,8 @@ if __name__ == "__main__":
     run_service("users/user.py", 5000)
     time.sleep(2)  # Tunggu 2 detik
     
-    # Jalankan ProductService di port 5001
-    run_service("products/product.py", 5001)
-    time.sleep(2)  # Tunggu 2 detik
-    
-    # Jalankan OrderService di port 5002
-    run_service("orders/order.py", 5002)
-    
     print("\nSemua service telah berjalan!")
     print("UserService: http://localhost:5000")
-    print("ProductService: http://localhost:5001")
-    print("OrderService: http://localhost:5002")
     
     try:
         while True:
