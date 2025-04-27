@@ -1,7 +1,8 @@
-## Biodata Developer
+## Biodata Mahasiswa
 
-- NAMA    : Naomi Benevolence Santoso
+- Nama    : Naomi Benevolence Santoso
 - NIM     : 1204220027
+- Kelas   : Integrasi Aplikasi Enterprise IS-06-04
 
 ---
 
